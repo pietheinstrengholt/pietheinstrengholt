@@ -1,6 +1,6 @@
  <div align="center"><img src="https://images.unsplash.com/photo-1566837945700-30057527ade0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&h=320&q=80"/></div>
  
-<!-- ![GitHub Views](https://komarev.com/ghpvc/?username=JWStarkie&label=Views&color=ff69b4&style=flat&label=Profile+Views) -->
+<!-- ![GitHub Views](https://komarev.com/ghpvc/?username=pietheinstrengholt&label=Views&color=ff69b4&style=flat&label=Profile+Views) -->
 
 ### Welcome 👋 , I'm Piethein Strengholt. I'm a Senior Cloud Solution Architect in Data & Analytics with a strong background on Data Management. Welcome to my GitHub page! <br>
 
