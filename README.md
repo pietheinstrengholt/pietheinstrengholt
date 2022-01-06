@@ -7,6 +7,7 @@
 🔭 &nbsp;*Some of the interesting projects I've been working on*:<br>
 &emsp;&emsp; 🚀 &nbsp;[RSSMonster](https://github.com/pietheinstrengholt/rssmonster)<br>
 &emsp;&emsp; 🌠 &nbsp;[Azure ML DevOps Demo](https://github.com/pietheinstrengholt/Azure-ML-and-DevOps-meets-Titanic)<br>
+&emsp;&emsp; 💭 &nbsp;[Redpepper Reporting Framework](https://github.com/pietheinstrengholt/redpepper)<br>
 
 <img align="left" alt="PietheinStrengholt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pietheinstrengholt&count_private=true&show_icons=true&hide_border=true&theme=buefy" />
 
